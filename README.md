@@ -1,2 +1,2 @@
 # JDapp
-frist
+first
